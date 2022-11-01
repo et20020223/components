@@ -1,3 +1,11 @@
 {
-  "sun": "日"
+  "sun": "日",
+  "mon": "一",
+  "tue": "二",
+  "wed": "三",
+  "thu": "四",
+  "fri": "五",
+  "sat": "六",
+  "timeZone": "時間以 {zone} (GMT{timeZone}) 顯示",
+  "bookCourse": "預約課程"
 }

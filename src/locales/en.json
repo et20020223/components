@@ -1,3 +1,11 @@
 {
-  "sun": "Sun"
+  "sun": "Sun",
+  "mon": "Mon",
+  "tue": "Tue",
+  "wed": "Wed",
+  "thu": "Thu",
+  "fri": "Fri",
+  "sat": "Sat",
+  "timeZone": "All times listed are in your local timezone: {zone} (GMT{timeZone})",
+  "bookCourse": "Book Course"
 }
